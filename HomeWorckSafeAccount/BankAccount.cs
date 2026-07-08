@@ -10,6 +10,7 @@
             {
                 _balance = 0;
             }
+
             _balance = initialBalance;
         }
 
